@@ -19,6 +19,9 @@ html {
 
 body {
 	background: url("http://www.iq-wallpapers.com/data/out/84/3758558-orange-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
